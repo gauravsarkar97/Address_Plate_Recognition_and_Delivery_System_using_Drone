@@ -37,4 +37,4 @@ This is just the software part. For the actual project, we had even constructed 
 
 Our aim is to reduce delivery time for time-sensitive, perishable goods and increase the ease of delivery in remote zones. In times of the pandemic caused by Covid-19, an autonomous drone delivery system is very useful to maintain **contactless delivery** and to reach red zones where humans are not allowed.<br><br>
 
-For more details about our project you can view the presentation "**drone_ppt**" prepared by us. This is actually our final year college project. **The link to my project partner's profile is [meet2mky.](https://github.com/meet2mky)**<br>
+For more details about our project you can view the presentation "**drone_ppt**" prepared by us. This is actually our final year college project. **The link to my project partner's profiles are [meet2mky](https://github.com/meet2mky) and [ydAshwani.](https://github.com/ydAshwani)**<br>
